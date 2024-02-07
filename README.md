@@ -8,8 +8,10 @@ Parallel one is the one you want to use if you want faster results, single(ipynb
 
 
 
-![Uploading Enregistrement-de-l’écran-2024-02-07-à-15.47.32-2.gif…]()
+Reference-style: 
+![alt text][logo]
 
+[logo]: [https://github.com/GwenMailland/Mario_NEAT_AI/MARIO.gif) "Winner"
 
 
 #### Key Components:
