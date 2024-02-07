@@ -8,7 +8,7 @@ Parallel one is the one you want to use if you want faster results, single(ipynb
 
 
 
-Reference-style: 
+# Winner: 
 ![alt text][logo]
 
 [logo]: 217ba0a0-70d6-4a3b-85ff-486604b8eca3.gif "Winner"
