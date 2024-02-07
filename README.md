@@ -11,7 +11,7 @@ Parallel one is the one you want to use if you want faster results, single(ipynb
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/GwenMailland/Mario_NEAT_AI/blob/main/MARIO.gif "Winner"
+[logo]: 217ba0a0-70d6-4a3b-85ff-486604b8eca3.gif "Winner"
 
 
 #### Key Components:
