@@ -6,6 +6,12 @@ The provided Python script implements a genetic algorithm using the NEAT (NeuroE
 
 Parallel one is the one you want to use if you want faster results, single(ipynb) is use for first step with NEAT and Mario, you can check in real time what the AI is doing.
 
+
+
+![Uploading Enregistrement-de-l’écran-2024-02-07-à-15.47.32-2.gif…]()
+
+
+
 #### Key Components:
 
 1. NEAT Configuration:
