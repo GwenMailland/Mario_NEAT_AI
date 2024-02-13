@@ -4,7 +4,7 @@ Python_NEAT_parallel
 
 The provided Python script implements a genetic algorithm using the NEAT (NeuroEvolution of Augmenting Topologies) library to evolve neural networks for playing the Super Mario Bros game. The algorithm evaluates the fitness of individual genomes (neural networks) based on Mario's progress in the game.
 
-Parallel one is the one you want to use if you want faster results, single(ipynb) is use for first step with NEAT and Mario, you can check in real time what the AI is doing.
+Parallel is the one you want to use if you want faster results, single(ipynb) is use for first step with NEAT and Mario, you can check in real time what the AI is doing.
 
 
 
